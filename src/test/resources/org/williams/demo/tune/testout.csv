@@ -1,0 +1,5 @@
+id,first_name,middle_initial,last_name,birth_year,anonymous_user,crm_id,profession,e_equals_mc_squared
+1,Jane,,Doe,,,,,
+2,John,Q,Public,1971,,,,
+3,,,,,true,abc123,,
+4,Albert,,Einstein,1879,,,Scientist,true
